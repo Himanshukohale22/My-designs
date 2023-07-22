@@ -9,6 +9,8 @@ and controlled by PWM , GPIO's signals.
 PCB is designed using on MOSFET BTS7960 IC.
 for six dc motors at same time with reverse voltage protection.
 
+-
+
 * Power bench supply.
 ---
 Small and Compact pcb for power supply with adjustable from 1-37v and constant 9v, 12v, 5v, 3.3v. for small current applications.
