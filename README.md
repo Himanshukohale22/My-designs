@@ -1,7 +1,7 @@
 # PCB's 3D layouts 
----
-This repo contrains my pcb design based on various technology.
 
+This repo contrains my pcb design based on various technology.
+---
 * DC motor driver.
 Motor driver are the devices use for controlling motors.Drivers circuits based on BJT, MOSFET, SCR'S and many switching devices.
 and controlled by PWM , GPIO's signals.
