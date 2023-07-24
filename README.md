@@ -7,8 +7,14 @@ This repository contrains my pcb design based on various technology. each projec
 Motor driver are the devices use for controlling motors.Drivers circuits based on BJT, MOSFET, SCR'S and many switching devices.
 and controlled by PWM , GPIO's signals.
 PCB is designed using on MOSFET BTS7960 IC.
-for six dc motors at same time with reverse voltage protection.
+for  six dc motors at same time with reverse voltage protection.
+  * TOP :
+    
+![image](https://github.com/Himanshukohale22/My-designs/assets/114358863/417be6b6-0469-4558-b495-6febdaf5d5b0)
 
+  * BOTTOM :
+    
+ ![image](https://github.com/Himanshukohale22/My-designs/assets/114358863/90b4cf78-ae9b-4529-9c10-98701d2d6684)
 
 
 * Power bench supply.
