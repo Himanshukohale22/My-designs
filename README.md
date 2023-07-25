@@ -2,9 +2,12 @@
 ---
 This repository contrains my pcb design based on various technology. each project has different repository resources for more info.
 
----
+
 
 ## 1) DC motor driver.
+
+---
+
 Motor driver are the devices use for controlling motors.Drivers circuits based on BJT, MOSFET, SCR'S and many switching devices.
 and controlled by PWM , GPIO's signals.
 PCB is designed using on MOSFET BTS7960 IC.
