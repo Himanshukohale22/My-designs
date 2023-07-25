@@ -8,11 +8,12 @@ Motor driver are the devices use for controlling motors.Drivers circuits based o
 and controlled by PWM , GPIO's signals.
 PCB is designed using on MOSFET BTS7960 IC.
 for  six dc motors at same time with reverse voltage protection.
-  * TOP :
+
+   TOP :
     
 ![image](https://github.com/Himanshukohale22/My-designs/assets/114358863/417be6b6-0469-4558-b495-6febdaf5d5b0)
 
-  * BOTTOM :
+   BOTTOM :
     
  ![image](https://github.com/Himanshukohale22/My-designs/assets/114358863/90b4cf78-ae9b-4529-9c10-98701d2d6684)
 
