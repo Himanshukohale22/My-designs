@@ -68,11 +68,28 @@ STM32 based custom devlopment board with inbuilt programmer. version v1.2.
 ---
 flight computer with four channels and communication unit. 
 
+TOP:
+
+![image](https://github.com/Himanshukohale22/My-designs/assets/114358863/1deb7f3e-5bf4-4abd-8f4a-082023b95524)
+
+BOTTOM:
+
+![image](https://github.com/Himanshukohale22/My-designs/assets/114358863/ea61d159-d6b0-43d9-9e3f-a642f90e0431)
 
 
 ## 7) TVC flight computer.
 ---
 flight computer for thrust vector control model Rockets.
+
+TOP:
+
+![image](https://github.com/Himanshukohale22/My-designs/assets/114358863/0e132638-bc55-4880-95a8-99cf04158268)
+
+
+BOTTOM:
+
+![image](https://github.com/Himanshukohale22/My-designs/assets/114358863/c8f506c3-5792-4e9a-9964-d25230d0e0f8)
+
 
 
 
