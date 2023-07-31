@@ -58,9 +58,17 @@ BOTTOM :
 
 
 
-## 5) STM32 custom dev-board v1.1.
+## 5) STM32 custom dev-board v1.2.
 ---
 STM32 based custom devlopment board with inbuilt programmer. version v1.2.
+
+TOP:
+
+
+![image](https://github.com/Himanshukohale22/stm32-custom-board-v1.2/assets/114358863/14214dac-d3af-43d1-8a7f-21b961678d73)
+
+
+BOTTOM: 
 
 
 
