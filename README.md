@@ -72,6 +72,9 @@ BOTTOM:
 
 
 
+![image](https://github.com/Himanshukohale22/stm32-custom-board-v1.2/assets/114358863/d6d21a43-b10b-4b70-b660-7e2cf4b57da9)
+
+
 ## 6) flight computer.
 ---
 flight computer with four channels and communication unit. 
