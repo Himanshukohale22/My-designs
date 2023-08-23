@@ -81,12 +81,15 @@ flight computer with four channels and communication unit.
 
 TOP:
 
-![image](https://github.com/Himanshukohale22/My-designs/assets/114358863/9ce227f8-2f4e-4acc-87a6-3d659baaa035)
+![image](https://github.com/Himanshukohale22/My-designs/assets/114358863/81884d70-f832-4ad7-93cf-34d49fbd8e7f)
+
+
 
 
 BOTTOM:
 
-![image](https://github.com/Himanshukohale22/My-designs/assets/114358863/93f55f79-7dab-4774-8d0b-141308a37481)
+![image](https://github.com/Himanshukohale22/My-designs/assets/114358863/afc74aeb-734b-4f00-8d99-90638f7c69ba)
+
 
 
 
@@ -96,12 +99,12 @@ flight computer for thrust vector control model Rockets.
 
 TOP:
 
-![image](https://github.com/Himanshukohale22/My-designs/assets/114358863/0e132638-bc55-4880-95a8-99cf04158268)
+![image](https://github.com/Himanshukohale22/My-designs/assets/114358863/9ce227f8-2f4e-4acc-87a6-3d659baaa035)
 
 
 BOTTOM:
 
-![image](https://github.com/Himanshukohale22/My-designs/assets/114358863/c8f506c3-5792-4e9a-9964-d25230d0e0f8)
+![image](https://github.com/Himanshukohale22/My-designs/assets/114358863/93f55f79-7dab-4774-8d0b-141308a37481)
 
 
 
