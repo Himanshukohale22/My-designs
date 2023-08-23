@@ -81,11 +81,13 @@ flight computer with four channels and communication unit.
 
 TOP:
 
-![image](https://github.com/Himanshukohale22/My-designs/assets/114358863/1deb7f3e-5bf4-4abd-8f4a-082023b95524)
+![image](https://github.com/Himanshukohale22/My-designs/assets/114358863/9ce227f8-2f4e-4acc-87a6-3d659baaa035)
+
 
 BOTTOM:
 
-![image](https://github.com/Himanshukohale22/My-designs/assets/114358863/ea61d159-d6b0-43d9-9e3f-a642f90e0431)
+![image](https://github.com/Himanshukohale22/My-designs/assets/114358863/93f55f79-7dab-4774-8d0b-141308a37481)
+
 
 
 ## 7) TVC flight computer.
