@@ -110,8 +110,14 @@ BOTTOM:
 ---
 ESP32-wroom based custom devlopment board.
 
+Top
+
+![image](https://github.com/Himanshukohale22/My-designs/assets/114358863/6b05cad3-272b-4ff5-a0a2-9aeef33395cd)
 
 
+Bottom 
+
+![image](https://github.com/Himanshukohale22/My-designs/assets/114358863/d14b17ef-f137-489d-a663-2ffb20d17e1c)
 
 
 ## 9) ESP-GPS.
